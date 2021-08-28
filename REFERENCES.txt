@@ -1,0 +1,6 @@
+https://stackoverflow.com/questions/4291080/print-the-environment-variables-using-environ
+https://www.ibm.com/support/knowledgecenter/SSLTBW_2.4.0/com.ibm.zos.v2r4.bpxbd00/setenv.htm
+https://c-for-dummies.com/blog/?p=1769
+https://gist.github.com/iomonad/a66f6e9cfb935dc12c0244c1e48db5c8
+Majorly refered ibm.com for all the built in functions.
+and also stackoverflow to fix the problems.
